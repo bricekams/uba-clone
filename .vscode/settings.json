@@ -1,0 +1,12 @@
+{
+  "editor.insertSpaces": false,
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": [
+      "javascript",
+      "typescript"
+  ],
+  "javascript.preferences.quoteStyle": "double",
+  "typescript.preferences.quoteStyle": "double"
+}
